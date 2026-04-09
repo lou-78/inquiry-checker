@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saved messages</title>
+    <title>Saved Messages</title>
     <style>
         body {
             margin: 0;
@@ -57,7 +57,7 @@
             margin-top: 20px;
             display: inline-block;
             text-decoration: none;
-            background-color: #2563eb;
+            background-color: #ec4899;
             color: white;
             padding: 12px 18px;
             border-radius: 10px;
