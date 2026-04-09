@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Message analysis</title>
+    <title>Analysis result</title>
     <style>
         body {
             margin: 0;
@@ -58,7 +58,7 @@
         }
 
         .hidri-btn-main {
-            background-color: #2563eb;
+            background-color: #ec4899;
         }
 
         .hidri-btn-second {
@@ -82,8 +82,8 @@
     <div class="hidri-item"><span class="alaa-label">Suggested reply:</span> {{ $inquiry->suggested_reply }}</div>
 
     <div class="alaa-actions">
-        <a class="hidri-btn hidri-btn-main" href="{{ route('home') }}">Back</a>
-        <a class="hidri-btn hidri-btn-second" href="{{ route('history') }}">Saved messages</a>
+        <a class="hidri-btn hidri-btn-main" href="{{ route('home') }}">go back</a>
+        <a class="hidri-btn hidri-btn-second" href="{{ route('history') }}">View Saved messages</a>
     </div>
 </div>
 </body>
