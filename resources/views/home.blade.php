@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inquiry Checker</title>
+    <title>Inquiry Checker Loup</title>
     <style>
         body {
             margin: 0;
@@ -67,7 +67,7 @@
         }
 
         button {
-            background-color: #2563eb;
+            background-color: #ec4899;
             color: white;
         }
 
@@ -110,7 +110,7 @@
         ></textarea>
 
         <div class="alaa-actions">
-            <button type="submit">Check message</button>
+            <button type="submit">Analyze message</button>
             <a class="hidri-bttn" href="{{ route('history') }}">Saved messages</a>
         </div>
     </form>
