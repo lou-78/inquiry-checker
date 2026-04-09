@@ -27,6 +27,11 @@ It allows users to:
 
 ## How to run the project
 
+## Author
+
+- Alla Hidri
+- Computer Science Student (FH Aachen)
+
 ```bash
 git clone https://github.com/lou-78/inquiry-checker.git
 cd inquiry-checker
